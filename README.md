@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ema-Perdomo
 - 👀 I’m interested in coding, mostly backend.
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m currently learning Full Stack Development and Software Engineering.
 - 📫 How to reach me: emaperdomo00@gmail.com
 
 <!---
